@@ -89,5 +89,5 @@ def nopInC(nopsled):
 if __name__ == "__main__":
     #print NOPS
     nopsled = NopGenerator( 0x80)
-    print nopInC(nopsled)
+    print(nopInC(nopsled))
 

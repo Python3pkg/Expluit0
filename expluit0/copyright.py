@@ -5,7 +5,7 @@
 Copyright information for Expluit0.
 """
 
-from __future__ import division, absolute_import
+
 
 #from expluit0 import __version__ as version, version as longversion
 
